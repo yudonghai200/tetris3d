@@ -1,0 +1,24 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "a webgl 3d tetris game for pratices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/yudonghai200/tetris3d.git"
+  },
+  "keywords": [
+    "webgl",
+    "3d",
+    "tetris"
+  ],
+  "author": "yudhcq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yudonghai200/tetris3d/issues"
+  },
+  "homepage": "https://github.com/yudonghai200/tetris3d#readme"
+}
